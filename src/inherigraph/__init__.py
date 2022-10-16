@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 """Top-level package for inherigraph."""
 
 __author__ = """Alvaro Clemente"""
