@@ -1,6 +1,8 @@
 """Console script for inherigraph."""
 import typer
-from rich import console
+from rich.console import Console
+
+console = Console()
 
 
 def main(name: str):
